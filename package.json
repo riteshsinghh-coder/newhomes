@@ -173,6 +173,7 @@
   "license": "ISC",
   "engines":{
     "node":"16.14.2"
-  }
+  },
+  "start":"app.js"
 }
 
